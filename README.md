@@ -170,7 +170,7 @@ We welcome contributions to improve this project! Please follow these steps:
 ## 📞📩 Contact Information
 Have questions or feedback? Feel free to get in touch:
 - **Email**: ah2006mediar@gmail.com
-- **Website**: [Sneaker Shop Ahmediar](https://www.sneakershopahmediar.com)
+- **Website**: [Sneaker Shop Ahmediar]([https://www.sneakershopahmediar.com](https://aldabergenn.github.io/WEBfinal/))
 - **GitHub**: [Your GitHub Profile](https://github.com/aldabergenn)
 - **Social Media**: Follow us on Facebook, Instagram, Twitter, and WhatsApp.
 
